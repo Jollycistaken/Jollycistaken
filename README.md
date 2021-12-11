@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a search engine called [Goobing](https://www.goobing.tk)
 - 🌱 I’m currently learning GoLang
-- 📫 How to reach me: [emael](mailto:paragonx@paragonx.tech?subject=yo%20whats%20good&body=ayo%20you%20wanna%20fried%20coke) or [Discord](https://www.paragonx.tech)
+- 📫 How to reach me: [Discord](https://discord.gg/SYzEAhwYbp)
 - 😄 Gender: Male
 - ⚡ Fun fact: I can actually code and not just fork a program and edit one line 😱
 
