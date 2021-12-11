@@ -2,8 +2,8 @@
 # Welcome to [my page!](https://github.com/Jollycistaken)
 ![](https://komarev.com/ghpvc/?username=Jollycistaken)
 
-- 🔭 I’m currently working on a search engine called [Goobing](https://www.goobing.tk)
-- 🌱 I’m currently learning GoLang
+- 🔭 I’m currently working on a api for my bot (Jollybot)
+- 🌱 I’m currently learning C#
 - 📫 How to reach me: [Discord](https://discord.gg/SYzEAhwYbp)
 - 😄 Gender: Male
 - ⚡ Fun fact: I can actually code and not just fork a program and edit one line 😱
