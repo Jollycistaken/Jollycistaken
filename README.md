@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 # Welcome to [my page!](https://github.com/Jollycistaken)
 ![](https://komarev.com/ghpvc/?username=Jollycistaken)
-
+- 🪄 My site is [](https://jollyc.tech)
 - 🔭 I’m currently working on a api for my bot (Jollybot)
 - 🌱 I’m currently learning C#
 - 📫 How to reach me: [Discord](https://discord.gg/SYzEAhwYbp)
