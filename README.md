@@ -2,7 +2,7 @@
 # Welcome to [my page!](https://github.com/Jollycistaken)
 ![](https://komarev.com/ghpvc/?username=Jollycistaken)
 - 🪄 My site is [jollyc.tech](https://jollyc.tech)
-- 🔭 I’m currently working on a external mod menu for some games (internal if its c#/il2cpp)
+- 🔭 Making a GD mod rn
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord: Jollyc#8550, [Twitter](https://twitter.com/Jollycistaken)
 - 😄 Gender: Male
