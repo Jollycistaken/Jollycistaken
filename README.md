@@ -2,7 +2,7 @@
 # Welcome to [my page!](https://github.com/Jollycistaken)
 ![](https://komarev.com/ghpvc/?username=Jollycistaken)
 - 🪄 My site is [jollyc.tech](https://jollyc.tech)
-- 🔭 Making a GD mod rn
+- 🔭 Making random stuff
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: Discord: Jollyc#8550, [Twitter](https://twitter.com/Jollycistaken)
 - 😄 Gender: Male
