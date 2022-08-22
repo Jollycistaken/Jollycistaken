@@ -4,7 +4,7 @@
 - 🪄 My site is [jollyc.tech](https://jollyc.tech)
 - 🔭 Making random stuff
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: Discord: Jollyc#8550, [Twitter](https://twitter.com/Jollycistaken)
+- 📫 How to reach me: Discord: Jollyc#3561, [Twitter](https://twitter.com/Jollycistaken)
 - 😄 Gender: Male
 - ⚡ Fun fact: I can actually code and not just fork a program and edit one line 😱
 
