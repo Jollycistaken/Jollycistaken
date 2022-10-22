@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Jollycistaken)
 - 🪄 My site is [jollyc.tech](https://jollyc.tech)
 - 🔭 Making random stuff
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C++ and trying to understand asm
 - 📫 How to reach me: Discord: Jollyc#3561, [Twitter](https://twitter.com/Jollycistaken)
 - 😄 Gender: Male
 - ⚡ Fun fact: I can actually code and not just fork a program and edit one line 😱
