@@ -12,3 +12,5 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jollycistaken&theme=tokyonight&layout=compact)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jollycistaken&count_private=false&show_icons=true&theme=tokyonight)
+
+<img src="https://cdn.discordapp.com/attachments/1018559680521457664/1033376061821558904/image0-2-1.gif">
