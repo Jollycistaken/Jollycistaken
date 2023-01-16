@@ -13,4 +13,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jollycistaken&count_private=false&show_icons=true&theme=dracula)
 
-<img src="https://cdn.discordapp.com/attachments/1018559680521457664/1033376061821558904/image0-2-1.gif">
+<img src="https://tenor.com/view/kasher-quon-ppickel-man-this-pickle-good-gif-27204132">
