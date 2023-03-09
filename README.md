@@ -25,7 +25,7 @@ I am Jollyc, 15 years old, studying cybersecurity and reverse engineering, and t
 ## Contact and Links
 - Jollyc#3561 on Discord
 - jollybusiness4@gmail.com on Email
-- [Twitter](https://twitter.com/Jollycistaken) on Twitter
+- [Jollycistaken](https://twitter.com/Jollycistaken) on Twitter
 
 ## Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jollycistaken&theme=dracula&layout=default)
