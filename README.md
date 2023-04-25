@@ -1,6 +1,6 @@
 
 # Yo
-I am Jollyc, 15 years old, studying cybersecurity and reverse engineering, and trying to become a malware analyst
+I am Jollyc, 16 years old, studying cybersecurity and reverse engineering, and trying to become a malware analyst
 
 ## Languages
 - Rust
