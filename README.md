@@ -18,7 +18,6 @@ I am Jollyc, 16 years old, interested in cybersecurity, reverse engineering, and
 
 ## Strengths
 - Low Level Development
-- Game Hacking
 - Reverse Engineering
 - Backend Development
 
