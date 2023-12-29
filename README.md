@@ -4,8 +4,9 @@ I am Jollyc, 16 years old, interested in cybersecurity, reverse engineering, and
 
 ## Languages
 - Rust
-- C++
+- C
 - Some x86/x64 NASM
+- C++
 - Javascript/Typescript
 - Python
 
