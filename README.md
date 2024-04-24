@@ -1,6 +1,6 @@
 
 # Yo
-I am Jollyc, 16 years old, interested in cybersecurity, reverse engineering, malware analysis, game modding/hacking, and cats :3
+I am Jollyc, 17 years old, interested in cybersecurity, reverse engineering, malware analysis, game modding/hacking, and cats :3
 
 ## Languages
 - Rust
