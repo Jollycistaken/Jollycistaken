@@ -19,7 +19,6 @@ I am Jollyc, 17 years old, interested in cybersecurity, reverse engineering, mal
 
 ## Contact and Links
 - jollyc on Discord
-- [jollybusiness4@gmail.com](mailto:jollybusiness4@gmail.com)
 - [My Twitter](https://twitter.com/Jollycistaken)
 - [My CodinGame (barely used)](https://www.codingame.com/profile/bb18a3d71f3e7bf67799122942135d383027255)
 
