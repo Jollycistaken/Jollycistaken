@@ -20,7 +20,6 @@ I am Maxim Dolgov, 17 years old, interested in cybersecurity, reverse engineerin
 ## Contact and Links
 - jollyc on Discord
 - [Blog](https://jollycistaken.github.io)
-- [My Twitter](https://twitter.com/Jollycistaken)
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jollycistaken&count_private=false&theme=dracula)  
