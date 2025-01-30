@@ -18,8 +18,10 @@ I am Maxim Dolgov, 17 years old, interested in cybersecurity, reverse engineerin
 - Sending Cat Pictures
 
 ## Contact and Links
-- jollyc on Discord
+- [mdolgov2007@gmail.com](mailto:mdolgov2007@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/maxim-d-0a2730280/)
 - [Blog](https://jollycistaken.github.io)
+- jollyc on Discord
 
 ## Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jollycistaken&count_private=false&theme=dracula)  
