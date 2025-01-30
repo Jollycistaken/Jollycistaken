@@ -1,6 +1,6 @@
 
 # Yo
-I am Jollyc, 17 years old, interested in cybersecurity, reverse engineering, malware analysis, game modding/hacking, and cats
+I am Maxim Dolgov, 17 years old, interested in cybersecurity, reverse engineering, malware analysis, game modding/hacking, and cats
 
 ## Languages
 - Rust
