@@ -5,10 +5,10 @@ I am Maxim Dolgov, 18 years old, interested in cybersecurity, reverse engineerin
 ## Languages
 - Rust
 - C
-- Some x86/x64 NASM
-- Lua
-- Javascript/Typescript
+- x86 Intel Syntax Assembly
 - Python
+- Typescript
+- Lua
 
 ## Strengths
 - Low Level Development
